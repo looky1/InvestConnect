@@ -1,2 +1,3 @@
 # InvestConnect
-App- business related
+buit a front-end react native app during my internship. 
+
